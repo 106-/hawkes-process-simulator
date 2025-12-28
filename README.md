@@ -2,6 +2,10 @@
 
 Hawkes過程の挙動を体験できるインタラクティブな可視化ツールです。様々なカーネル関数を選択して、自己励起過程（Self-Exciting Process）の特性を探索できます。
 
+available on: https://hawkes-process-simulator.streamlit.app/
+
+<img width="1512" height="787" alt="スクリーンショット 2025-12-28 19 53 35" src="https://github.com/user-attachments/assets/d4213d50-1549-4286-8360-b6a4b0a6984b" />
+
 ## このアプリでできること
 
 ### **リアルタイムシミュレーション**
